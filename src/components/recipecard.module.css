@@ -1,0 +1,25 @@
+.recipeCard{
+    width: 270px;
+    height: 320px;
+    border: 1px solid coral;
+    margin: 10px;
+    border-radius: 10px;
+}
+.recipeImg{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 230px;
+
+}
+.burgRec{
+font-family: unset;
+color: cornflowerblue;
+    
+}
+.recipeTitle{
+    color: aqua;
+}
+.recipeCardContainer{
+    
+}

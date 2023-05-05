@@ -1,0 +1,21 @@
+.calcu{
+    width: 560px;
+    height: 500px;
+    border: 1px solid blue;
+    margin: 40px auto;
+}
+.calcuHead{
+    text-align: center;
+}
+.inputBox{
+    display: flex;
+
+}
+.btnBox{
+    display: flex;
+    justify-content: center;
+
+}
+.reHead{
+    color: azure;
+}
